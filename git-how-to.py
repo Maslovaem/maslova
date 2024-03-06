@@ -23,3 +23,5 @@ cd Имя_папки/
 git clone ssh
 
 """
+print("hello liza")
+
